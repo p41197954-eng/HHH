@@ -82,7 +82,7 @@ python3 semantic.py \
   --positions end
 ```
 
-##Running an Memorization Attack
+## Running an Memorization Attack
 
 The memorization-based membership inference attack can be executed with the following command:
 ```bash
@@ -94,7 +94,7 @@ python3 repeat.py \
   --positions end
 ```
 
-##Running an Poisoning Attack
+## Running an Poisoning Attack
 
 The poisoning-based membership inference attack can be executed with the following command:
 ```bash
